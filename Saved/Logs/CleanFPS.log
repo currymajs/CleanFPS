@@ -1,0 +1,977 @@
+﻿Log file open, 01/18/18 14:13:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CleanFPS
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(237849570) SRandInit(237849570).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.206355
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.18-13.14.00:308][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.18-13.14.00:308][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.18-13.14.00:322][  0]LogInit: Computer: LAPTOP-BTMG7BLG
+[2018.01.18-13.14.00:322][  0]LogInit: User: Kim
+[2018.01.18-13.14.00:322][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.18-13.14.00:322][  0]LogInit: High frequency timer resolution =2.437504 MHz
+[2018.01.18-13.14.00:323][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.18-13.14.00:323][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.18-13.14.00:323][  0]LogMemory: Process Physical Memory: 274.11 MB used, 274.11 MB peak
+[2018.01.18-13.14.00:323][  0]LogMemory: Process Virtual Memory: 269.54 MB used, 269.54 MB peak
+[2018.01.18-13.14.00:323][  0]LogMemory: Physical Memory: 4180.68 MB used,  3894.92 MB free, 8075.60 MB total
+[2018.01.18-13.14.00:323][  0]LogMemory: Virtual Memory: 677.05 MB used,  3894.92 MB free, 134217728.00 MB total
+[2018.01.18-13.14.00:603][  0]LogInit: Using OS detected language (sv-SE).
+[2018.01.18-13.14.00:603][  0]LogInit: Using OS detected locale (sv-SE).
+[2018.01.18-13.14.00:610][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2018.01.18-13.14.00:610][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the locale.
+[2018.01.18-13.14.01:214][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.18-13.14.01:525][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.18-13.14.01:577][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.01.18-13.14.01:577][  0]LogD3D11RHI:       1987/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.18-13.14.01:588][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.01.18-13.14.01:588][  0]LogD3D11RHI:       128/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.18-13.14.01:591][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.18-13.14.01:591][  0]LogD3D11RHI:       0/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.18-13.14.01:591][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.18-13.14.01:595][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.18-13.14.01:595][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.01.18-13.14.01:595][  0]LogWindows: EnumDisplayDevices:
+[2018.01.18-13.14.01:595][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.01.18-13.14.01:596][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.01.18-13.14.01:596][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.01.18-13.14.01:596][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.01.18-13.14.01:596][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.18-13.14.01:596][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.01.18-13.14.01:596][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.18-13.14.01:596][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.18-13.14.01:596][  0]LogRHI: Texture pool is 1391 MB (70% of 1987 MB)
+[2018.01.18-13.14.01:625][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.18-13.14.01:636][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.18-13.14.01:637][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Intermediate/Shaders/WorkingDirectory/2692/).
+[2018.01.18-13.14.01:637][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kim/AppData/Local/Temp/UnrealShaderWorkingDir/439BCE6A4660E080436039AE6C1E2980/'.
+[2018.01.18-13.14.01:637][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.18-13.14.02:843][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.18-13.14.02:915][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.18-13.14.02:986][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.18-13.14.03:059][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.18-13.14.03:138][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.18-13.14.03:212][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.18-13.14.03:290][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.18-13.14.03:357][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.18-13.14.03:416][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.18-13.14.03:488][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.18-13.14.03:554][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.18-13.14.03:625][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.18-13.14.03:687][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.18-13.14.03:746][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.18-13.14.03:971][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.18-13.14.03:971][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.18-13.14.04:036][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.18-13.14.04:088][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.18-13.14.04:195][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.18-13.14.04:238][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.18-13.14.04:302][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.18-13.14.04:368][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.18-13.14.04:437][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.18-13.14.04:493][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.18-13.14.04:493][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.18-13.14.05:229][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.18-13.14.05:370][  0]LogDerivedDataCache: Loaded boot cache 0.14s 78MB C:/Users/Kim/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.18-13.14.05:370][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kim/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.18-13.14.05:371][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.18-13.14.05:371][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.18-13.14.05:371][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.18-13.14.05:371][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.18-13.14.05:395][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.18-13.14.05:410][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kim/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.18-13.14.05:425][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.18-13.14.05:426][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.18-13.14.05:426][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.18-13.14.05:426][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.18-13.14.05:976][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.18-13.14.06:470][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.18-13.14.06:526][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.18-13.14.06:526][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.18-13.14.06:526][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.18-13.14.06:526][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.18-13.14.06:526][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.18-13.14.06:564][  0]LogNetVersion: CleanFPS , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1025218232)
+[2018.01.18-13.14.06:798][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2018.01.18-13.14.07:445][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.041805 seconds
+[2018.01.18-13.14.07:456][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.01.18-13.14.07:456][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.01.18-13.14.07:456][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.18-13.14.07:526][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.18-13.14.11:404][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.18-13.14.11:466][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.18-13.14.12:487][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.18-13.14.13:108][  0]SourceControl: Source control is disabled
+[2018.01.18-13.14.13:109][  0]SourceControl: Source control is disabled
+[2018.01.18-13.14.13:187][  0]SourceControl: Source control is disabled
+[2018.01.18-13.14.13:258][  0]SourceControl: Source control is disabled
+[2018.01.18-13.14.14:388][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.18-13.14.14:756][  0]LogOcInput: OculusInput pre-init called
+[2018.01.18-13.14.15:141][  0]LogEngine: Initializing Engine...
+[2018.01.18-13.14.15:148][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.18-13.14.15:484][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.18-13.14.15:484][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.18-13.14.15:687][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.18-13.14.15:697][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.18-13.14.15:717][  0]LogInit: FAudioDevice initialized.
+[2018.01.18-13.14.15:836][  0]LogDerivedDataCache: Saved boot cache 0.12s 78MB C:/Users/Kim/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.18-13.14.15:874][  0]LogInit: Texture streaming: Enabled
+[2018.01.18-13.14.16:003][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.18-13.14.16:187][  0]LogInit: Transaction tracking system initialized
+[2018.01.18-13.14.16:641][  0]BlueprintLog: New page: Editor Load
+[2018.01.18-13.14.17:939][  0]LocalizationService: Localization service is disabled
+[2018.01.18-13.14.19:296][  0]LogConsoleResponse: Display: 
+[2018.01.18-13.14.19:528][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kim/Documents/Unreal Projects/CleanFPS/Content/' took 0.01s
+[2018.01.18-13.14.19:528][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.18-13.14.19:528][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.18-13.14.19:528][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.18-13.14.21:186][  0]SourceControl: Source control is disabled
+[2018.01.18-13.14.21:186][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.18-13.14.21:186][  0]LightingResults: New page: Lighting Build
+[2018.01.18-13.14.21:249][  0]MapCheck: New page: Map Check
+[2018.01.18-13.14.21:249][  0]LightingResults: New page: Lighting Build
+[2018.01.18-13.14.21:581][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.01.18-13.14.21:589][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.18-13.14.21:611][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.18-13.14.21:682][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.202ms to complete.
+[2018.01.18-13.14.21:682][  0]LogFileHelpers: Loading map 'Template_Default' took 0.496
+[2018.01.18-13.14.21:852][  0]LogCollectionManager: Loaded 0 collections in 0.001874 seconds
+[2018.01.18-13.14.21:952][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/Collections/' took 0.01s
+[2018.01.18-13.14.21:952][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Developers/Kim/Collections/' took 0.01s
+[2018.01.18-13.14.21:952][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Collections/' took 0.01s
+[2018.01.18-13.14.21:952][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.18-13.14.21:965][  0]LogContentBrowser: Native class hierarchy populated in 0.0132 seconds. Added 2363 classes and 519 folders.
+[2018.01.18-13.14.22:054][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.18-13.14.22:104][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.18-13.14.22:165][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.18-13.14.22:186][  0]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.18-13.14.22:189][  0]LogSlate: Took 0.000642 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.18-13.14.22:205][  0]LogSlate: Took 0.000553 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.18-13.14.22:334][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 9 NumSamples 1 (Frame:1).
+[2018.01.18-13.14.22:634][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.18-13.14.22:634][  0]LogLoad: (Engine Initialization) Total time: 25.46 seconds
+[2018.01.18-13.14.22:634][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.18-13.14.22:634][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.18-13.14.22:997][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.01.18-13.14.23:319][  1]LogAssetRegistry: Asset discovery search completed in 16.5424 seconds
+[2018.01.18-13.14.23:320][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.18-13.14.23:320][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2018.01.18-13.15.13:658][655]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.18-13.16.05:368][745]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.18-13.16.05:389][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Amap" FILE="../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Maps/Amap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.18-13.16.05:462][745]LogSavePackage: Save=42.53ms
+[2018.01.18-13.16.05:462][745]LogSavePackage: Moving '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/AmapFC464D7444CB902EC810DBA4246F82AC.tmp' to '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Maps/Amap.umap'
+[2018.01.18-13.16.05:465][745]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Maps/Amap.umap
+[2018.01.18-13.16.05:495][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Amap_BuiltData" FILE="../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Maps/Amap_BuiltData.uasset" SILENT=true
+[2018.01.18-13.16.05:521][745]LogSavePackage: Save=18.85ms
+[2018.01.18-13.16.05:521][745]LogSavePackage: Moving '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/Amap_BuiltDataF89436A142444E0FD73EDB8650701ACE.tmp' to '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Maps/Amap_BuiltData.uasset'
+[2018.01.18-13.16.05:522][745]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Maps/Amap_BuiltData.uasset
+[2018.01.18-13.16.05:528][745]LogFileHelpers: Saving map 'Amap' took 0.239
+[2018.01.18-13.16.36:437][100]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.01.18-13.16.37:178][100]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.18-13.16.37:870][129]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.18-13.16.39:316][205]LogRenderer: Reallocating scene render targets to support 964x540 Format 9 NumSamples 1 (Frame:82).
+[2018.01.18-13.19.07:619][312]BlueprintLog: New page: Compile FPSController
+[2018.01.18-13.19.08:938][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPSController" FILE="../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Blueprints/FPSController.uasset" SILENT=true
+[2018.01.18-13.19.08:962][378]LogSavePackage: Save=19.86ms
+[2018.01.18-13.19.08:962][378]LogSavePackage: Moving '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/FPSController8F8DC0FB4FB65EAF7663FEA001B1B31E.tmp' to '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Blueprints/FPSController.uasset'
+[2018.01.18-13.19.08:965][378]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Blueprints/FPSController.uasset
+[2018.01.18-13.20.15:704][685]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.18-13.20.44:894][484]BlueprintLog: New page: Compile FPSGameMode
+[2018.01.18-13.20.45:882][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPSGameMode" FILE="../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Blueprints/FPSGameMode.uasset" SILENT=true
+[2018.01.18-13.20.45:899][531]LogSavePackage: Save=13.08ms
+[2018.01.18-13.20.45:899][531]LogSavePackage: Moving '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/FPSGameModeA5F0505E4E2D237039DA29B17D4A3E89.tmp' to '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Blueprints/FPSGameMode.uasset'
+[2018.01.18-13.20.45:904][531]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Blueprints/FPSGameMode.uasset
+[2018.01.18-13.21.05:500][813]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.01.18-13.21.05:566][815]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.CleanFPS
+[2018.01.18-13.21.05:566][815]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.18-13.21.05:566][815]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.01.18-13.21.05:566][815]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.18-13.21.05:568][815]LogTemp: BranchPath = LAPTOP-BTMG7BLG/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = LAPTOP-BTMG7BLG/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.01.18-13.21.05:579][815]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Kim\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.01.18-13.21.11:802][185]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.18-13.21.37:767][861]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.18-13.21.37:808][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.18-13.21.37:809][861]PIE: New page: PIE session: Amap (Jan 18, 2018, 3:21:37 PM)
+[2018.01.18-13.21.37:809][861]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Amap
+[2018.01.18-13.21.37:814][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005271s)
+[2018.01.18-13.21.37:815][861]LogAIModule: Creating AISystem for world Amap
+[2018.01.18-13.21.37:815][861]LogPlayLevel: PIE: World Init took: (0.001145s)
+[2018.01.18-13.21.37:816][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Amap.Amap to /Game/Maps/UEDPIE_0_Amap.Amap (0.006900s)
+[2018.01.18-13.21.37:836][861]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.18-13.21.37:846][861]LogInit: FAudioDevice initialized.
+[2018.01.18-13.21.37:891][861]LogLoad: Game class is 'FPSGameMode_C'
+[2018.01.18-13.21.37:893][861]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Amap.Amap up for play (max tick rate 60) at 2018.01.18-14.21.37
+[2018.01.18-13.21.37:894][861]LogWorld: Bringing up level for play took: 0.000605
+[2018.01.18-13.21.37:935][861]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.01.18-13.21.37:937][861]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Amap -0.297
+[2018.01.18-13.21.59:443][342]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.01.18-13.21.59:530][344]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.CleanFPS
+[2018.01.18-13.21.59:530][344]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.18-13.21.59:530][344]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.01.18-13.21.59:530][344]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.18-13.21.59:546][345]LogTemp: BranchPath = LAPTOP-BTMG7BLG/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = LAPTOP-BTMG7BLG/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.01.18-13.21.59:563][346]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Kim\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.01.18-13.26.12:944][953]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.18-13.27.28:020][915]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.18-13.27.37:075][213]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Amap' took 0.025
+[2018.01.18-13.27.37:078][213]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/FPSController] ([1] browsable assets)...
+[2018.01.18-13.27.37:078][213]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/FPSController]
+[2018.01.18-13.27.37:110][213]LogSavePackage: Save=22.24ms
+[2018.01.18-13.27.37:110][213]LogSavePackage: Moving '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/FPSController_Auto1291C51E644C7B1FE99E3FFBB7B41C594.tmp' to '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/Autosaves/Game/Blueprints/FPSController_Auto1.uasset'
+[2018.01.18-13.27.37:111][213]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/Autosaves/Game/Blueprints/FPSController_Auto1.uasset
+[2018.01.18-13.27.37:111][213]LogFileHelpers: Auto-saving content packages took 0.036
+[2018.01.18-13.28.10:615][469]BlueprintLog: New page: Compile FPSController
+[2018.01.18-13.28.11:934][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPSController" FILE="../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Blueprints/FPSController.uasset" SILENT=true
+[2018.01.18-13.28.11:963][536]LogSavePackage: Save=24.33ms
+[2018.01.18-13.28.11:963][536]LogSavePackage: Moving '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/FPSController9E6B69934ADC6FA8D5AF48B560AC06E2.tmp' to '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Blueprints/FPSController.uasset'
+[2018.01.18-13.28.11:968][536]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Blueprints/FPSController.uasset
+[2018.01.18-13.28.14:375][680]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.18-13.28.15:279][732]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.18-13.28.15:299][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.18-13.28.15:300][732]PIE: New page: PIE session: Amap (Jan 18, 2018, 3:28:15 PM)
+[2018.01.18-13.28.15:300][732]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Amap
+[2018.01.18-13.28.15:305][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005861s)
+[2018.01.18-13.28.15:307][732]LogAIModule: Creating AISystem for world Amap
+[2018.01.18-13.28.15:307][732]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2018.01.18-13.28.15:307][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Amap.Amap to /Game/Maps/UEDPIE_0_Amap.Amap (0.007382s)
+[2018.01.18-13.28.15:329][732]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.18-13.28.15:339][732]LogInit: FAudioDevice initialized.
+[2018.01.18-13.28.15:374][732]LogLoad: Game class is 'FPSGameMode_C'
+[2018.01.18-13.28.15:375][732]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Amap.Amap up for play (max tick rate 60) at 2018.01.18-14.28.15
+[2018.01.18-13.28.15:375][732]LogWorld: Bringing up level for play took: 0.000731
+[2018.01.18-13.28.15:377][732]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Amap -0.858
+[2018.01.18-13.33.25:177][354]BlueprintLog: New page: Compile FPSController
+[2018.01.18-13.33.26:646][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPSController" FILE="../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Blueprints/FPSController.uasset" SILENT=true
+[2018.01.18-13.33.26:692][428]LogSavePackage: Save=35.07ms
+[2018.01.18-13.33.26:692][428]LogSavePackage: Moving '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/FPSController840B181A49F6CB1E8606F889EB8E9050.tmp' to '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Blueprints/FPSController.uasset'
+[2018.01.18-13.33.26:697][428]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Blueprints/FPSController.uasset
+[2018.01.18-13.33.29:322][585]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.18-13.33.29:343][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.18-13.33.29:343][585]PIE: New page: PIE session: Amap (Jan 18, 2018, 3:33:29 PM)
+[2018.01.18-13.33.29:343][585]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Amap
+[2018.01.18-13.33.29:349][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006364s)
+[2018.01.18-13.33.29:350][585]LogAIModule: Creating AISystem for world Amap
+[2018.01.18-13.33.29:351][585]LogPlayLevel: PIE: World Init took: (0.001313s)
+[2018.01.18-13.33.29:351][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Amap.Amap to /Game/Maps/UEDPIE_0_Amap.Amap (0.008033s)
+[2018.01.18-13.33.29:372][585]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.18-13.33.29:383][585]LogInit: FAudioDevice initialized.
+[2018.01.18-13.33.29:417][585]LogLoad: Game class is 'FPSGameMode_C'
+[2018.01.18-13.33.29:419][585]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Amap.Amap up for play (max tick rate 60) at 2018.01.18-14.33.29
+[2018.01.18-13.33.29:420][585]LogWorld: Bringing up level for play took: 0.000882
+[2018.01.18-13.33.29:421][585]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Amap -0.814
+[2018.01.18-13.34.55:477][720]BlueprintLog: New page: Compile FPSController
+[2018.01.18-13.34.57:315][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPSController" FILE="../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Blueprints/FPSController.uasset" SILENT=true
+[2018.01.18-13.34.57:358][817]LogSavePackage: Save=39.11ms
+[2018.01.18-13.34.57:358][817]LogSavePackage: Moving '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/FPSControllerD15BBF744014DBA3932D7FBA14BBBF73.tmp' to '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Blueprints/FPSController.uasset'
+[2018.01.18-13.34.57:362][817]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Blueprints/FPSController.uasset
+[2018.01.18-13.35.00:484][  4]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.18-13.35.00:505][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.18-13.35.00:505][  4]PIE: New page: PIE session: Amap (Jan 18, 2018, 3:35:00 PM)
+[2018.01.18-13.35.00:505][  4]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Amap
+[2018.01.18-13.35.00:511][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005388s)
+[2018.01.18-13.35.00:512][  4]LogAIModule: Creating AISystem for world Amap
+[2018.01.18-13.35.00:512][  4]LogPlayLevel: PIE: World Init took: (0.001561s)
+[2018.01.18-13.35.00:512][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Amap.Amap to /Game/Maps/UEDPIE_0_Amap.Amap (0.007362s)
+[2018.01.18-13.35.00:533][  4]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.18-13.35.00:543][  4]LogInit: FAudioDevice initialized.
+[2018.01.18-13.35.00:574][  4]LogLoad: Game class is 'FPSGameMode_C'
+[2018.01.18-13.35.00:576][  4]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Amap.Amap up for play (max tick rate 60) at 2018.01.18-14.35.00
+[2018.01.18-13.35.00:576][  4]LogWorld: Bringing up level for play took: 0.000685
+[2018.01.18-13.35.00:577][  4]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Amap 0.343
+[2018.01.18-13.35.10:866][616]Cmd: SELECT NONE
+[2018.01.18-13.35.11:404][648]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.18-13.35.15:496][888]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.18-13.37.32:327][861]BlueprintLog: New page: Compile FPSController
+[2018.01.18-13.37.33:191][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPSController" FILE="../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Blueprints/FPSController.uasset" SILENT=true
+[2018.01.18-13.37.33:234][899]LogSavePackage: Save=40.41ms
+[2018.01.18-13.37.33:234][899]LogSavePackage: Moving '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/FPSControllerDDBD23F7426DCF2E13E07C9CD088DD49.tmp' to '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Blueprints/FPSController.uasset'
+[2018.01.18-13.37.33:238][899]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Blueprints/FPSController.uasset
+[2018.01.18-13.38.04:304][523]BlueprintLog: New page: Compile FPSController
+[2018.01.18-13.38.06:096][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPSController" FILE="../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Blueprints/FPSController.uasset" SILENT=true
+[2018.01.18-13.38.06:146][613]LogSavePackage: Save=45.94ms
+[2018.01.18-13.38.06:146][613]LogSavePackage: Moving '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/FPSController8D3CD30648FA46BB3A0937832B574EC1.tmp' to '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Blueprints/FPSController.uasset'
+[2018.01.18-13.38.06:150][613]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Blueprints/FPSController.uasset
+[2018.01.18-13.38.10:743][808]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.18-13.38.10:767][808]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.18-13.38.10:768][808]PIE: New page: PIE session: Amap (Jan 18, 2018, 3:38:10 PM)
+[2018.01.18-13.38.10:768][808]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Amap
+[2018.01.18-13.38.10:776][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008574s)
+[2018.01.18-13.38.10:777][808]LogAIModule: Creating AISystem for world Amap
+[2018.01.18-13.38.10:777][808]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2018.01.18-13.38.10:778][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Amap.Amap to /Game/Maps/UEDPIE_0_Amap.Amap (0.010054s)
+[2018.01.18-13.38.10:801][808]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.18-13.38.10:813][808]LogInit: FAudioDevice initialized.
+[2018.01.18-13.38.10:852][808]LogLoad: Game class is 'FPSGameMode_C'
+[2018.01.18-13.38.10:853][808]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Amap.Amap up for play (max tick rate 60) at 2018.01.18-14.38.10
+[2018.01.18-13.38.10:853][808]LogWorld: Bringing up level for play took: 0.000834
+[2018.01.18-13.38.10:857][808]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Amap 0.622
+[2018.01.18-13.38.54:803][385]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.18/FeaturePacks/StarterContent.upack)
+[2018.01.18-13.38.54:810][385]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.01.18-13.38.54:817][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.01.18-13.38.54:823][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.01.18-13.38.54:831][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.01.18-13.38.54:836][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.01.18-13.38.54:842][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.01.18-13.38.54:847][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.01.18-13.38.54:852][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.01.18-13.38.54:857][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.01.18-13.38.54:862][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.01.18-13.38.54:867][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.01.18-13.38.54:872][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.01.18-13.38.54:877][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.01.18-13.38.54:882][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.01.18-13.38.54:885][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.01.18-13.38.54:890][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.01.18-13.38.54:894][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.01.18-13.38.54:896][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.01.18-13.38.54:901][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Audio/Fire01.uasset"
+[2018.01.18-13.38.54:903][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.01.18-13.38.54:909][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.01.18-13.38.54:910][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.01.18-13.38.54:916][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Audio/Light01.uasset"
+[2018.01.18-13.38.54:917][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.01.18-13.38.54:923][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Audio/Light02.uasset"
+[2018.01.18-13.38.54:924][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.01.18-13.38.54:930][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.01.18-13.38.54:935][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.01.18-13.38.54:939][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.01.18-13.38.54:964][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.01.18-13.38.54:974][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.01.18-13.38.54:976][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.01.18-13.38.54:982][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.01.18-13.38.54:988][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.01.18-13.38.54:994][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Audio/Steam01.uasset"
+[2018.01.18-13.38.54:998][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.01.18-13.38.55:004][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.01.18-13.38.55:009][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.01.18-13.38.55:014][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.01.18-13.38.55:020][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.01.18-13.38.55:025][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.01.18-13.38.55:029][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.01.18-13.38.55:035][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.01.18-13.38.55:040][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.01.18-13.38.55:042][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.01.18-13.38.55:047][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.01.18-13.38.55:052][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.01.18-13.38.55:057][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.01.18-13.38.55:062][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.01.18-13.38.55:067][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.01.18-13.38.55:078][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.01.18-13.38.55:083][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.01.18-13.38.55:134][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.01.18-13.38.55:139][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.01.18-13.38.55:145][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.01.18-13.38.55:166][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.01.18-13.38.55:172][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.01.18-13.38.55:181][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Maps/StarterMap.umap"
+[2018.01.18-13.38.55:194][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.01.18-13.38.55:200][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.01.18-13.38.55:206][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.01.18-13.38.55:212][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.01.18-13.38.55:217][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.01.18-13.38.55:222][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.01.18-13.38.55:228][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.01.18-13.38.55:234][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.01.18-13.38.55:238][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.01.18-13.38.55:243][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.01.18-13.38.55:249][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.01.18-13.38.55:254][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.01.18-13.38.55:259][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.01.18-13.38.55:265][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.01.18-13.38.55:269][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.01.18-13.38.55:274][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.01.18-13.38.55:279][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.01.18-13.38.55:285][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.01.18-13.38.55:289][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.01.18-13.38.55:295][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.01.18-13.38.55:300][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.01.18-13.38.55:304][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.01.18-13.38.55:309][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.01.18-13.38.55:314][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.01.18-13.38.55:319][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.01.18-13.38.55:324][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.01.18-13.38.55:329][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.01.18-13.38.55:335][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.01.18-13.38.55:340][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.01.18-13.38.55:344][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.01.18-13.38.55:349][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.01.18-13.38.55:354][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.01.18-13.38.55:359][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.01.18-13.38.55:364][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.01.18-13.38.55:369][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.01.18-13.38.55:374][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.01.18-13.38.55:379][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.01.18-13.38.55:384][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.01.18-13.38.55:390][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.01.18-13.38.55:395][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.01.18-13.38.55:401][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.01.18-13.38.55:405][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.01.18-13.38.55:410][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.01.18-13.38.55:415][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.01.18-13.38.55:420][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.01.18-13.38.55:424][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.01.18-13.38.55:455][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.01.18-13.38.55:460][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.01.18-13.38.55:464][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.01.18-13.38.55:469][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.01.18-13.38.55:474][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.01.18-13.38.55:478][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.01.18-13.38.55:483][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.01.18-13.38.55:487][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.01.18-13.38.55:492][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.01.18-13.38.55:496][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.01.18-13.38.55:501][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.01.18-13.38.55:506][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.01.18-13.38.55:511][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.01.18-13.38.55:516][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.01.18-13.38.55:521][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.01.18-13.38.55:528][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.01.18-13.38.55:533][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.01.18-13.38.55:538][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.01.18-13.38.55:543][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.01.18-13.38.55:547][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/SM_Door.uasset"
+[2018.01.18-13.38.55:552][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.01.18-13.38.55:560][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.01.18-13.38.55:564][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.01.18-13.38.55:569][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.01.18-13.38.55:575][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.01.18-13.38.55:580][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.01.18-13.38.55:585][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.01.18-13.38.55:590][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.01.18-13.38.55:594][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.01.18-13.38.55:599][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.01.18-13.38.55:603][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.01.18-13.38.55:629][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.01.18-13.38.55:634][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.01.18-13.38.55:640][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.01.18-13.38.55:645][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.01.18-13.38.55:650][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.01.18-13.38.55:654][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.01.18-13.38.55:659][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.01.18-13.38.55:663][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.01.18-13.38.55:669][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.01.18-13.38.55:674][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.01.18-13.38.55:679][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.01.18-13.38.55:684][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.01.18-13.38.55:688][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.01.18-13.38.55:693][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.01.18-13.38.55:698][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.01.18-13.38.55:703][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.01.18-13.38.55:711][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.01.18-13.38.55:717][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.01.18-13.38.55:722][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.01.18-13.38.55:727][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.01.18-13.38.55:732][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.01.18-13.38.55:737][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.01.18-13.38.55:741][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.01.18-13.38.55:746][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.01.18-13.38.55:751][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.01.18-13.38.55:755][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.01.18-13.38.55:759][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.01.18-13.38.55:764][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.01.18-13.38.55:769][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.01.18-13.38.55:773][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.01.18-13.38.55:785][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.01.18-13.38.55:790][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.01.18-13.38.55:794][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.01.18-13.38.55:803][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.01.18-13.38.55:813][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.01.18-13.38.55:824][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.01.18-13.38.55:834][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.01.18-13.38.55:845][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.01.18-13.38.55:855][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.01.18-13.38.55:871][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.01.18-13.38.55:882][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.01.18-13.38.55:895][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.01.18-13.38.55:903][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.01.18-13.38.55:912][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.01.18-13.38.55:921][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.01.18-13.38.55:932][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.01.18-13.38.55:937][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.01.18-13.38.55:941][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.01.18-13.38.55:946][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.01.18-13.38.55:952][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.01.18-13.38.55:956][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.01.18-13.38.55:961][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.01.18-13.38.55:972][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.01.18-13.38.55:978][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.01.18-13.38.55:990][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.01.18-13.38.55:997][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.01.18-13.38.56:009][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.01.18-13.38.56:037][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.01.18-13.38.56:044][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.01.18-13.38.56:075][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.01.18-13.38.56:084][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.01.18-13.38.56:096][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.01.18-13.38.56:107][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.01.18-13.38.56:117][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.01.18-13.38.56:125][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.01.18-13.38.56:137][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.01.18-13.38.56:146][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.01.18-13.38.56:156][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.01.18-13.38.56:164][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.01.18-13.38.56:173][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.01.18-13.38.56:174][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.01.18-13.38.56:180][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.01.18-13.38.56:186][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.01.18-13.38.56:190][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.01.18-13.38.56:196][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.01.18-13.38.56:203][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.01.18-13.38.56:207][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.01.18-13.38.56:212][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.01.18-13.38.56:218][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.01.18-13.38.56:223][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.01.18-13.38.56:227][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.01.18-13.38.56:240][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.01.18-13.38.56:252][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.01.18-13.38.56:277][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.01.18-13.38.56:304][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.01.18-13.38.56:377][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.01.18-13.38.56:398][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.01.18-13.38.56:404][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.01.18-13.38.56:411][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.01.18-13.38.56:435][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.01.18-13.38.56:476][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.01.18-13.38.56:509][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.01.18-13.38.56:544][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.01.18-13.38.56:551][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.01.18-13.38.56:590][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.01.18-13.38.56:613][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.01.18-13.38.56:620][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.01.18-13.38.56:654][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.01.18-13.38.56:675][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.01.18-13.38.56:686][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.01.18-13.38.56:707][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.01.18-13.38.56:741][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.01.18-13.38.56:772][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.01.18-13.38.56:793][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.01.18-13.38.56:829][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.01.18-13.38.56:862][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.01.18-13.38.56:906][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.01.18-13.38.56:943][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.01.18-13.38.56:980][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.01.18-13.38.56:986][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.01.18-13.38.56:992][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.01.18-13.38.56:993][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.01.18-13.38.57:000][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.01.18-13.38.57:005][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.01.18-13.38.57:010][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.01.18-13.38.57:015][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.01.18-13.38.57:020][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.01.18-13.38.57:042][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.01.18-13.38.57:047][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.01.18-13.38.57:052][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.01.18-13.38.57:057][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.01.18-13.38.57:062][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.01.18-13.38.57:074][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.01.18-13.38.57:082][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.01.18-13.38.57:088][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.01.18-13.38.57:094][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.01.18-13.38.57:116][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.01.18-13.38.57:123][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.01.18-13.38.57:131][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.01.18-13.38.57:140][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.01.18-13.38.57:149][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.01.18-13.38.57:158][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.01.18-13.38.57:198][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.01.18-13.38.57:206][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.01.18-13.38.57:219][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.01.18-13.38.57:235][385]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.01.18-13.38.57:368][385]LogSavePackage: Save=14.41ms
+[2018.01.18-13.38.57:368][385]LogSavePackage: Moving '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/Floor_400x40067A0078744AF91404A669B9B4955B2C6.tmp' to '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.01.18-13.38.57:372][385]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.01.18-13.40.36:836][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.18-13.40.39:301][855]Cmd: DELETE
+[2018.01.18-13.40.39:301][855]Cmd: ACTOR DELETE
+[2018.01.18-13.40.39:314][855]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-13.40.39:336][855]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2018.01.18-13.40.53:121][529]LogActorFactory: Actor Factory created Floor_400x400
+[2018.01.18-13.40.56:364][723]LogActorFactory: Actor Factory created Floor_400x400
+[2018.01.18-13.41.07:534][391]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.18-13.41.09:398][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2018.01.18-13.41.26:004][484]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.18-13.41.27:173][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x403)
+[2018.01.18-13.41.36:597][103]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.18-13.42.05:648][604]LogMaterial: Missing cached shader map for material M_Basic_Wall, compiling. 
+[2018.01.18-13.42.05:742][605]LogActorFactory: Actor Factory created Wall_400x300
+[2018.01.18-13.42.09:269][810]LogActorFactory: Actor Factory created Wall_400x300
+[2018.01.18-13.42.11:699][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Amap" FILE="../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/Autosaves/Game/Maps/Amap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.18-13.42.11:745][949]LogSavePackage: Save=37.96ms
+[2018.01.18-13.42.11:745][949]LogSavePackage: Moving '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/Amap_Auto2AC2B20014C4BCA8F0D993BA62A87F594.tmp' to '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/Autosaves/Game/Maps/Amap_Auto2.umap'
+[2018.01.18-13.42.11:746][949]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/Autosaves/Game/Maps/Amap_Auto2.umap
+[2018.01.18-13.42.11:748][949]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Amap' took 0.071
+[2018.01.18-13.42.11:748][949]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.071
+[2018.01.18-13.42.24:052][684]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.18-13.42.27:240][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2018.01.18-13.42.32:698][189]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.18-13.42.34:715][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2018.01.18-13.42.36:573][412]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.18-13.43.02:234][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2018.01.18-13.43.12:539][257]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.18-13.43.16:510][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2018.01.18-13.43.24:533][948]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.18-13.44.28:311][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x401)
+[2018.01.18-13.44.38:473][812]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.18-13.44.39:390][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x408)
+[2018.01.18-13.44.45:557][222]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.18-13.44.59:415][374]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.18-13.44.59:680][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x410)
+[2018.01.18-13.45.07:422][840]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.18-13.45.08:530][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x412)
+[2018.01.18-13.45.10:538][ 17]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.18-13.45.12:600][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x401)
+[2018.01.18-13.45.21:757][660]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.18-13.45.41:132][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x415)
+[2018.01.18-13.45.49:948][818]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.18-13.46.15:984][ 42]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.18-13.46.33:224][ 67]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2018.01.18-13.46.33:775][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x420)
+[2018.01.18-13.46.39:623][438]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2018.01.18-13.46.43:795][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2018.01.18-13.46.52:915][210]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2018.01.18-13.46.56:451][414]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x310)
+[2018.01.18-13.47.04:777][901]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2018.01.18-13.47.11:878][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x312)
+[2018.01.18-13.47.17:975][396]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2018.01.18-13.47.28:984][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x315)
+[2018.01.18-13.47.49:934][882]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2018.01.18-13.48.11:927][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x316)
+[2018.01.18-13.48.15:540][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x420)
+[2018.01.18-13.48.31:415][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x316)
+[2018.01.18-13.48.46:597][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x308)
+[2018.01.18-13.48.57:527][834]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2018.01.18-13.49.01:791][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x318)
+[2018.01.18-13.49.04:100][211]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2018.01.18-13.49.04:903][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x318)
+[2018.01.18-13.49.15:781][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x321)
+[2018.01.18-13.49.16:809][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x321)
+[2018.01.18-13.49.17:313][977]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2018.01.18-13.49.18:267][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x325)
+[2018.01.18-13.49.20:449][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x324)
+[2018.01.18-13.49.21:895][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x323)
+[2018.01.18-13.49.23:510][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x322)
+[2018.01.18-13.49.25:891][475]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2018.01.18-13.49.27:349][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x322)
+[2018.01.18-13.49.28:079][598]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2018.01.18-13.50.27:617][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x329)
+[2018.01.18-13.50.28:557][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x328)
+[2018.01.18-13.50.33:713][297]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2018.01.18-13.52.41:530][306]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.18-13.52.46:751][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Amap" FILE="../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/Autosaves/Game/Maps/Amap_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.18-13.52.46:851][611]LogSavePackage: Save=90.74ms
+[2018.01.18-13.52.46:851][611]LogSavePackage: Moving '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/Amap_Auto36CE43975404D1B10A52773BE03CB1687.tmp' to '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/Autosaves/Game/Maps/Amap_Auto3.umap'
+[2018.01.18-13.52.46:852][611]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/Autosaves/Game/Maps/Amap_Auto3.umap
+[2018.01.18-13.52.46:857][611]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Amap' took 0.133
+[2018.01.18-13.52.46:857][611]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.133
+[2018.01.18-13.53.25:407][143]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2018.01.18-13.53.33:054][574]LogContentStreaming: Texture pool size now 600 MB
+[2018.01.18-13.53.33:092][577]LogRenderer: Reallocating scene render targets to support 964x540 Format 9 NumSamples 1 (Frame:48256).
+[2018.01.18-13.53.34:421][646]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2018.01.18-13.54.33:404][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x404)
+[2018.01.18-13.54.51:933][560]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2018.01.18-13.54.54:969][735]LogActorFactory: Actor Factory created Pillar_50x500
+[2018.01.18-13.54.55:793][784]LogActorFactory: Actor Factory created Pillar_50x500
+[2018.01.18-13.55.09:375][590]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2018.01.18-13.55.11:725][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x500)
+[2018.01.18-13.55.51:518][ 23]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2018.01.18-13.56.25:052][334]MapCheck: New page: Map Check
+[2018.01.18-13.56.25:065][334]LightingResults: New page: Lighting Build - Jan 18, 2018, 3:56:25 PM
+[2018.01.18-13.56.25:134][334]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.18-13.56.25:188][334]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.18-13.56.25:210][334]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.18-13.56.26:280][334]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.18-13.56.26:280][334]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2692
+[2018.01.18-13.56.28:911][334]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.01.18-13.56.28:913][334]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.18-13.56.28:913][334]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.18-13.56.28:913][334]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.18-13.56.28:913][334]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.18-13.56.28:913][334]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.18-13.56.29:161][334]LogEditorBuildUtils: Build time 0:04
+[2018.01.18-13.56.29:172][334]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2018.01.18-13.56.29:178][334]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2018.01.18-13.56.29:212][335]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Floor, compiling. 
+[2018.01.18-13.56.29:221][335]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Floor, compiling. 
+[2018.01.18-13.56.29:247][336]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Wall, compiling. 
+[2018.01.18-13.56.29:256][336]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Wall, compiling. 
+[2018.01.18-13.56.29:323][338]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.01.18-13.56.29:333][338]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.01.18-13.56.37:522][635]Job is a success!
+[2018.01.18-13.56.37:577][636]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2018.01.18-13.56.37:577][636]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.01.18-13.56.37:577][636]LogVolumetricLightmapImport:      BrickData 175x5x5 = 0.1Mb
+[2018.01.18-13.56.37:577][636]LogVolumetricLightmapImport:      Bricks at Level
+[2018.01.18-13.56.37:577][636]LogVolumetricLightmapImport:          0: 2.9% covering 100.0% of volume
+[2018.01.18-13.56.37:577][636]LogVolumetricLightmapImport:          1: 5.7% covering 3.1% of volume
+[2018.01.18-13.56.37:577][636]LogVolumetricLightmapImport:          2: 91.4% covering 0.8% of volume
+[2018.01.18-13.56.38:418][636]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.01.18-13.56.38:418][636]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.01.18-13.56.38:418][636]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2018.01.18-13.56.38:418][636]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2018.01.18-13.56.38:418][636]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.01.18-13.56.38:418][636]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.01.18-13.56.38:418][636]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2018.01.18-13.56.38:418][636]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2018.01.18-13.56.38:418][636]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2018.01.18-13.56.38:418][636]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2018.01.18-13.56.38:617][636]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.01.18-13.56.38:617][636]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2018.01.18-13.56.38:617][636]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2018.01.18-13.56.38:655][636]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2018.01.18-13.56.38:710][636]Lightmass on LAPTOP-BTMG7BLG: 5.85 sec total, 146 ms importing, 19 ms setup, 659 ms photons, 4.99 sec processing, 0 ms extra exporting [66/66 mappings]. Threads: 19.9 sec total, 10.6 sec processing.
+[2018.01.18-13.56.38:743][636]LogStaticLightingSystem: Illumination: 13.6 sec (790 ms encoding lightmaps, 230 ms encoding shadowmaps)
+[2018.01.18-13.56.38:743][636]LogStaticLightingSystem: Lightmap texture memory:  2.5 MB (2.5 MB streaming, 0.0 MB non-streaming), 10 textures
+[2018.01.18-13.56.38:743][636]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.01.18-13.56.38:920][636]DumpUnbuiltLightIteractions
+[2018.01.18-13.56.38:920][636]Lights with unbuilt interactions: 0
+[2018.01.18-13.56.38:920][636]
+[2018.01.18-13.56.38:920][636]Primitives with unbuilt interactions: 0
+[2018.01.18-13.56.38:929][637]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.18-13.56.38:930][637]MapCheck: New page: Amap - Jan 18, 2018, 3:56:38 PM
+[2018.01.18-13.56.38:992][637]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.822ms to complete.
+[2018.01.18-13.57.30:111][361]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2018.01.18-13.58.32:880][335]LogMaterial: Missing cached shader map for material M_Wood_Floor_Walnut_Polished, compiling. 
+[2018.01.18-13.58.44:567][ 18]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2018.01.18-13.59.24:801][550]LogMaterial: Missing cached shader map for material M_Tech_Panel, compiling. 
+[2018.01.18-13.59.43:556][602]LogMaterial: Missing cached shader map for material M_Tech_Hex_Tile, compiling. 
+[2018.01.18-13.59.59:824][521]LogMaterial: Missing cached shader map for material M_Tech_Hex_Tile_Pulse, compiling. 
+[2018.01.18-14.00.10:529][109]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2018.01.18-14.01.02:207][114]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2018.01.18-14.01.04:477][245]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.18-14.01.04:513][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.18-14.01.04:513][245]PIE: New page: PIE session: Amap (Jan 18, 2018, 4:01:04 PM)
+[2018.01.18-14.01.04:514][245]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Amap
+[2018.01.18-14.01.04:519][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005188s)
+[2018.01.18-14.01.04:520][245]LogAIModule: Creating AISystem for world Amap
+[2018.01.18-14.01.04:520][245]LogPlayLevel: PIE: World Init took: (0.001263s)
+[2018.01.18-14.01.04:520][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Amap.Amap to /Game/Maps/UEDPIE_0_Amap.Amap (0.006771s)
+[2018.01.18-14.01.04:546][245]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.18-14.01.04:557][245]LogInit: FAudioDevice initialized.
+[2018.01.18-14.01.04:591][245]LogLoad: Game class is 'FPSGameMode_C'
+[2018.01.18-14.01.04:595][245]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Amap.Amap up for play (max tick rate 60) at 2018.01.18-15.01.04
+[2018.01.18-14.01.04:596][245]LogWorld: Bringing up level for play took: 0.003514
+[2018.01.18-14.01.04:600][245]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Amap 0.366
+[2018.01.18-14.01.22:442][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Amap" FILE="../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Maps/Amap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.18-14.01.22:703][189]LogSavePackage: Save=223.62ms
+[2018.01.18-14.01.22:703][189]LogSavePackage: Moving '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/Amap81F109B441ABD0B4E228DB9158D856C6.tmp' to '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Maps/Amap.umap'
+[2018.01.18-14.01.22:708][189]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Maps/Amap.umap
+[2018.01.18-14.01.22:734][189]LogFileHelpers: Saving map 'Amap' took 0.369
+[2018.01.18-14.01.22:739][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Amap_BuiltData" FILE="../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Maps/Amap_BuiltData.uasset" SILENT=true
+[2018.01.18-14.01.22:887][189]LogSavePackage: Save=137.13ms
+[2018.01.18-14.01.22:887][189]LogSavePackage: Moving '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/Amap_BuiltData9EE20EF043DBC55A8EAF55A83698A44F.tmp' to '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Maps/Amap_BuiltData.uasset'
+[2018.01.18-14.01.22:890][189]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Maps/Amap_BuiltData.uasset
+[2018.01.18-14.04.15:604][380]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.18-14.04.31:132][  6]BlueprintLog: New page: Compile FPSGameMode
+[2018.01.18-14.04.32:843][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPSGameMode" FILE="../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Blueprints/FPSGameMode.uasset" SILENT=true
+[2018.01.18-14.04.32:876][ 90]LogSavePackage: Save=17.83ms
+[2018.01.18-14.04.32:876][ 90]LogSavePackage: Moving '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/FPSGameModeA29C74F24AD762BC28F3D4B13E072854.tmp' to '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Blueprints/FPSGameMode.uasset'
+[2018.01.18-14.04.32:879][ 90]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Content/Blueprints/FPSGameMode.uasset
+[2018.01.18-14.04.36:252][286]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.18-14.04.42:826][602]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.01.18-14.04.42:920][604]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.CleanFPS
+[2018.01.18-14.04.42:920][604]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.18-14.04.42:920][604]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.01.18-14.04.42:920][604]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.18-14.04.42:920][604]LogTemp: BranchPath = LAPTOP-BTMG7BLG/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = LAPTOP-BTMG7BLG/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.01.18-14.04.42:960][606]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Kim\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.01.18-14.06.18:149][597]LogSlate: Took 0.005334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.01.18-14.11.21:388][560]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Amap' took 0.028
+[2018.01.18-14.11.21:390][560]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/superHotController] ([1] browsable assets)...
+[2018.01.18-14.11.21:390][560]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/superHotController]
+[2018.01.18-14.11.21:442][560]LogSavePackage: Save=47.93ms
+[2018.01.18-14.11.21:442][560]LogSavePackage: Moving '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/superHotController_Auto41892E56A4BAF83F237D69180DC2E7856.tmp' to '../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/Autosaves/Game/Blueprints/superHotController_Auto4.uasset'
+[2018.01.18-14.11.21:443][560]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kim/Documents/Unreal Projects/CleanFPS/Saved/Autosaves/Game/Blueprints/superHotController_Auto4.uasset
+[2018.01.18-14.11.21:443][560]LogFileHelpers: Auto-saving content packages took 0.053
